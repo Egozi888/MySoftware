@@ -6,7 +6,8 @@ pipeline {
             steps {
                 sh '''
                     ls -la
-//                     python3 
+                    python3 click.py 
+                    python3 welcome.py
                     '''
             }
         }
