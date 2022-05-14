@@ -1,4 +1,4 @@
 def click():
-  print('Click')
+  print('Click_Click')
   
 click()  
